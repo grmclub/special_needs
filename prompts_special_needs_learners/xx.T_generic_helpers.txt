@@ -1,0 +1,79 @@
+
+-------------------------------------------------------------
+1. The Task Paralysis Shatterer
+"I need to do [task] but I can't start. Don't give me a to-do list. Give me only ONE physical action I can do in the next 90 seconds that requires zero decisions. Then stop."
+
+2. The Dopamine Menu Architect
+"Build me a 'dopamine menu' for my work session on [project]. Give me 3 'main dishes' (deep work tasks), 3 'sides' (easy wins), and 2 'desserts' (rewarding tasks I actually enjoy). I pick what I'm drawn to in the moment."
+
+3. The Body Double Simulator
+"Be my body double for the next 30 minutes. I'm working on [task]. Every time I message you, just respond with: what I said I'd do, a one-line check-in, and one micro-encouragement. No long responses. Keep me anchored."
+
+4. The Hyperfocus Activator
+"Turn [boring task] into a challenge or game. Give it stakes, a time limit, and a scoring system. Make it feel like something I'd actually want to win. Be creative — my brain needs a reason to care."
+
+5. The Time Blindness Corrector
+"I have [X hours] to do [task list]. I have no sense of time. Create a session map that anchors each task to a real-world time (e.g. 'at 10:15, not in 20 minutes'). Add a buffer zone and one emergency reset slot."
+
+6. The Transition Bridge
+"I just finished [task A] and need to move to [task B] but I'm stuck in the gap. Write me a 3-step transition ritual — under 2 minutes — that closes the first task mentally and opens the second one. Make it physical, specific, and simple."
+
+7. The Shame Spiral Interrupter
+"I haven't worked on [task] in [time period] and I feel awful about it. Don't motivate me. Don't lecture me. Just help me figure out the smallest re-entry point that doesn't require me to 'catch up' first. Treat it like I'm starting fresh today."
+
+8. The End-of-Day Debrief
+"Help me close today. Ask me 4 quick questions — one about what I actually finished, one about what's still open, one about what's blocking me tomorrow, and one about one small win I can acknowledge. Then summarize it as a clean 'brain dump' I can read tomorrow morning to restart fast."
+
+The prompts shared in this post are creative productivity tools designed to help structure thinking and reduce overwhelm. They are not a medical treatment, therapy, or clinical intervention for ADHD or any other condition.
+AI cannot diagnose, treat, or replace professional support. If you or someone you know is struggling with ADHD, please consult a qualified healthcare professional or licensed therapist.
+Results vary from person to person. What works for one brain may not work for another and that's completely okay.
+Use these as a starting point, not a solution.
+
+-------------------------------------------------------------
+1/ Curriculum Architect Prompt
+Use for: Building a full learning path
+
+Act as a world-class curriculum designer.
+I want to master [skill] in [timeframe] starting from [current level].
+Create a week-by-week study plan with:
+1. Learning objectives per week
+2. Core resources: books, papers, courses, docs
+3. Practice projects with increasing difficulty
+4. How to measure progress
+5. Common pitfalls to avoid
+Make it realistic for [X hours/week].
+-------------
+2/ Spaced Repetition Card Maker
+Use for: Retaining what you learn
+
+Code
+From this text/topic: [paste notes or topic]
+Create Anki-style flashcards using active recall + close deletion.
+Focus on: concepts I must derive, not memorize; common bugs; trade-offs.
+Format as Q:... A:...
+Generate 15 cards, ordered by importance.
+-------------
+3/ Transfer Learning Prompt
+Use for: Applying skill A to domain B
+
+Code
+I know [skill A]. I want to learn [skill B].
+Map concepts from A onto B to accelerate learning.
+Show me: what transfers directly, what’s analogous but different, what’s completely new.
+Then give me 3 exercises that use my A skills to bootstrap B.
+
+-------------
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
