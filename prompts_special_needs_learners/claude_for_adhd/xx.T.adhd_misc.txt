@@ -1,0 +1,61 @@
+
+-------------------------------------------------
+1. The Task Paralysis Shatterer
+I am staring at [Task] and can't start. Break this down into 'Ridiculously Small' steps that take less than 1 minute each. Give me the first step and tell me exactly where to put my hands to begin.
+
+2. The Dopamine Menu Architect
+I am feeling under-stimulated. My current setting and energy level: [Context, e.g. home office, low energy]. Build a 'Dopamine Menu' with 3 options in each category: 5-minute 'Appetizers' (quick movement), 20-minute 'Entrees' (focused work), 10-minute 'Sides' (creative play). Make every option doable right now from where I am.
+
+3. The "Body Doubling" Simulator
+Act as my virtual body double for a 30-minute focus session. I'll tell you the task now and send you a quick message every 10 minutes. Each time I check in, ask one specific status question, give a brief encouragement, and remind me what to focus on next. My task is: [Task].
+
+
+4. The Context-Switching Guide
+I just finished [Task A, type: e.g. analytical] and need to start [Task B, type: e.g. creative], but my brain is stuck. Design a 3-minute 'Mental Palate Cleanser' with 3 short steps (1 physical, 1 sensory, 1 mental) to shift me from the first type of energy to the second.
+
+5. The Interest-Based Filter
+I have a boring admin task: [Task]. Gamify it using my current hyper-fixation: [Interest]. Build a 3-stage 'Quest' with themed names from that interest, a mini-reward after each stage, and a final unlock when the whole task is done.
+
+6. The Time-Blindness Auditor
+I estimate [Project] will take [X minutes], but it usually takes [Y]. Brief description: [What the project involves]. Identify the 3 hidden sub-tasks I likely forget (setup, transitions, review, etc.), give a realistic time estimate for each, and a total realistic deadline.
+
+
+-------------------------------------------------
+1/ Curriculum Architect Prompt
+Use for: Building a full learning path
+
+Act as a world-class curriculum designer.
+I want to master [skill] in [timeframe] starting from [current level].
+Create a week-by-week study plan with:
+1. Learning objectives per week
+2. Core resources: books, papers, courses, docs
+3. Practice projects with increasing difficulty
+4. How to measure progress
+5. Common pitfalls to avoid
+Make it realistic for [X hours/week].
+
+2/ Spaced Repetition Card Maker
+Use for: Retaining what you learn
+
+Code
+From this text/topic: [paste notes or topic]
+Create Anki-style flashcards using active recall + close deletion.
+Focus on: concepts I must derive, not memorize; common bugs; trade-offs.
+Format as Q:... A:...
+Generate 15 cards, ordered by importance.
+
+3/ Transfer Learning Prompt
+Use for: Applying skill A to domain B
+
+Code
+I know [skill A]. I want to learn [skill B].
+Map concepts from A onto B to accelerate learning.
+Show me: what transfers directly, what’s analogous but different, what’s completely new.
+Then give me 3 exercises that use my A skills to bootstrap B.
+
+-------------------------------------------------
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
