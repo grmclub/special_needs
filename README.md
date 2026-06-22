@@ -1,2 +1,2 @@
 # special_needs
-Educational Tools and lessons for children with special needs
+Educational tools and lessons for children with special needs
